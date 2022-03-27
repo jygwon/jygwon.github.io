@@ -1,14 +1,14 @@
 ---
 layout: list
 bigtitle: 일상
-slug: 일상
+slug: daily
 menu: true
 submenu: true
 description: >
-  일상생활
+  개발과 관련없는 일상생활
 ---
 
-# Subcat
+# 일상
 
 ## 카테고리
 

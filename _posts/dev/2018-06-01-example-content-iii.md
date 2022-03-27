@@ -14,8 +14,8 @@ related_posts:
   - /example/2012-02-07-example-content/
 sitemap: false
 categories:
-  - 개발
----  n                      6    `
+  - dev
+---
 
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,

@@ -6,8 +6,8 @@ description: >
 image: /assets/img/blog/example-content-ii.jpg
 sitemap: false
 categories:
-  - 일상
-  - 음식
+  - daily
+  - food
 ---
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.

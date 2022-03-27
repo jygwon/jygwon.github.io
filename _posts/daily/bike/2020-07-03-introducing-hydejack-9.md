@@ -8,8 +8,8 @@ description: >
   Modernized design, big headlines, and big new features.
 sitemap: false
 categories:
-  - 일상
-  - 자전거
+  - daily
+  - bike
 ---
 
 bike

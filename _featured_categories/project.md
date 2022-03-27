@@ -6,7 +6,7 @@ layout: list
 title: 프로젝트
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: 프로젝트
+slug: project
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >

@@ -6,7 +6,7 @@ layout: list
 title: 알고리즘
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: 알고리즘
+slug: algo
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >

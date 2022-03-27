@@ -2,7 +2,7 @@
 layout: list
 category: 일상
 bigtitle: 음식
-slug: 음식
+slug: food
 description: >
   먹는게 중요하다.
   
