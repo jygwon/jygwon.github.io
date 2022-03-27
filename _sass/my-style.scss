@@ -37,10 +37,43 @@
   transition: border-color 1s ease;
   margin-top: 5px !important;
   margin-left: 5px !important;
-  width:140px !important; 	// 이미지 크기 
+  width:140px !important; 	// 이미지 크기
   height:140px !important;
 }
 .author-body-description {
   margin-left: 20px !important;  // 소개글 위치 정하기 200px
   margin-top: 20px !important;      // 20px
+}
+
+// 게시물 안에 링크 스타일
+.markdown-body > p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+.markdown-body > ol > li> p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+
+.markdown-body >blockquote> p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+
+
+.markdown-body{
+  under {
+      text-decoration: underline;
+      text-decoration-color: red;
+      text-underline-position: under;
+      padding-bottom: 2px;
+    }
+}
+
+// 링크 밑줄
+.content a:not(.btn):not(.no-hover) {
+  text-decoration-color: rgba(79,177,186,0.5);    // rgba(79,177,186,0.5)
 }

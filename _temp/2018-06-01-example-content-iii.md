@@ -3,7 +3,7 @@ layout: post
 title: Example Content III
 description: >
   A page showing Hydejack-specific markdown content.
-image: 
+image:
   path: /assets/img/blog/example-content-iii.jpg
   srcset:
     1060w: /assets/img/blog/example-content-iii.jpg
@@ -14,7 +14,8 @@ related_posts:
   - /example/2012-02-07-example-content/
 sitemap: false
 categories:
-  - dev
+  - daily
+  - etc
 ---
 
 Hydejack offers a few additional features to markup your markdown.
