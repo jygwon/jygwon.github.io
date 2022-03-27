@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example Content
+subtitle: subExample Content
+tags: algo etc 후덜덜
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false

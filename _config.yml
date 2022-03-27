@@ -20,7 +20,7 @@ url:                   https://jygwon.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 딩코딩
+title:                 딩코딩's 코딩월드
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description:           >
   Not Giving Up! 개발은 머신과의 끝없는 싸움이야!
 
 # A shorter description for the sidebar.
-tagline:               [YouTube Channel](https://www.youtube.com/channel/UC52ETeDGjjLAsQlGmTR0keQ){:target="_blank"} 
+tagline:               유튜브 [딩코딩](https://www.youtube.com/channel/UC52ETeDGjjLAsQlGmTR0keQ)
 
 # A list of keywords for your blog
 keywords:              [algorithm,problem solving,NFT,react,.net core,.net framework,C#.net,Azure,MSSQL,coding interview]
