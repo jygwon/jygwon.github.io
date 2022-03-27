@@ -79,7 +79,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+remote_theme: jekyll-theme-hydejack
 
 
 # Customizaton
