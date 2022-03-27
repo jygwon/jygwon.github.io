@@ -7,11 +7,12 @@ description: >
   Version 9 is the most complete version of Hydejack yet.
   Modernized design, big headlines, and big new features.
 sitemap: false
+categories:
+  - 일상
+  - 자전거
 ---
 
-Version 9 is the most complete version of Hydejack yet.
-{:.lead}
-
+bike
 [Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
 
 - Table of Contents

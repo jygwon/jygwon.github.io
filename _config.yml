@@ -48,13 +48,26 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
-
+  - title:             프로젝트
+    url:               /project/
+  - title:             알고리즘
+    url:               /algo/
+  - title:             개발
+    url:               /dev/
+  - title:             관리
+    url:               /maint/
+  - title:             일상
+    url:               /daliy/
+    submenu:
+    - title:           자전거
+      url:             /bike/
+    - title:           먹거리
+      url:             /food/
+    - title:           기타
+      url:             /etc/
+       
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
@@ -80,10 +93,10 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 #로컬 실행시 아래 주석을 풀어주세요.
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 
 #github실행시 아래 주석을 풀어주세요.
-remote_theme: hydecorp/hydejack@v9.1.6
+#remote_theme: hydecorp/hydejack@v9.1.6
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
