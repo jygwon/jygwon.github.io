@@ -20,7 +20,7 @@ url:                   https://jygwon.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 개발각 딩코딩
+title:                 개발각
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -80,7 +80,6 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
