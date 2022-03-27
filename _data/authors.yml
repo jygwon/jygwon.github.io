@@ -7,9 +7,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    각도기 대보면 딱 진단이 나와.
-    그리고는 시간과의 싸움이지.
-    Here is my [CV](/assets/cv.pdf){:target="_blank"}.
+    개발과 전자기기를 좋아하는 딩코딩
 
   # This photo will be used in the about section
   picture:
