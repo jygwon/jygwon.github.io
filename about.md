@@ -36,10 +36,10 @@ redirect_from:
 * Platforms: Struts, Hibernate, Spring, .net Core, .net FrameWork
 
 ## Certification :
-Certified Information System Security Professional (ISC2, 2010)
-Certified Information System Auditor (ISACA, 2009)
-Project Management Professional (PMI, 2005)
-Oracle Certified Professional DBA for Oracle 8i and 9i (ORACLE, 2002, 2005)
-Microsoft Certified Database Admin. MSSQL Server 2000 (Microsoft, 2002)
-Microsoft Certified System Engineer MS Windows 2000 (Microsoft, 2002)
-SUN Certified Java Professional (SUN, 2002)
+* Certified Information System Security Professional
+* Certified Information System Auditor
+* Project Management Professional 
+* Oracle Certified Professional DBA for Oracle
+* Microsoft Certified Database Admin. MSSQL Server
+* Microsoft Certified System Engineer MS Windows
+* Certified Java Professional
