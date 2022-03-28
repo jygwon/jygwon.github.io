@@ -37,12 +37,12 @@ layout: base
 <!-- <script>console.log("{{addons}}"); console.log("{{page.addons}}"); console.log("{{site.hydejack.post_addons}}")</script> -->
 {% for addon in addons %}
   {% case addon %}
-  {% when 'about' %}
-    {% include_cached components/about.html author=page.author %}
   {% when 'related' %}
     {% include components/related-posts.html %}
   {% when 'comments' %}
     {% include my-comments.html %}
+  {% when 'about' %}
+    {% include_cached components/about.html author=page.author %}
   {% else %}
   {% endcase %}
 {% endfor %}
