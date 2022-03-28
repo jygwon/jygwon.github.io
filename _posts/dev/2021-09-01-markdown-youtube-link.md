@@ -8,8 +8,8 @@ categories:
   - dev
 ---
 
-아래 경로의 파일에 코드블럭을 넣어준다.
-_includes > youtubePlayer.html
+아래 경로의 파일에 코드블럭을 넣어준다.  
+_includes > components > youtubePlayer.html
 ~~~
 <style>
     .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
@@ -25,10 +25,11 @@ _includes > youtubePlayer.html
 ~~~
 
 
-원하는 마크다운 게시물 위치에 원하는 유튜브 영상 id와 함께 아래 코드를 입력하면 됩니다.
+마크다운 게시물에 아래 코드를 입력하면 됩니다.  
+유튜브 영상 id가 필요합니다.
 ~~~
-<% include youtubePlayer.html id="yypCzKVyiKs" %>
+<% include components/youtubePlayer.html id="yypCzKVyiKs" %>
 꺽쇠를 {}로 바꾸세요.
 ~~~
 
-{% include youtubePlayer.html id="yypCzKVyiKs" %}
+{% include components/youtubePlayer.html id="yypCzKVyiKs" %}
