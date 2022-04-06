@@ -441,10 +441,10 @@ jekyll_compose:
 # ---------------------------------------------------------------------------------------
 
 tipue_search:
-  include:
-    pages: false
-    collections: []
-  exclude:
-    files: []
-    categories: []
-    tags: []
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
