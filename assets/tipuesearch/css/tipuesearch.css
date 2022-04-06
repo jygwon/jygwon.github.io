@@ -33,39 +33,31 @@ http://www.tipue.com/search
 
 
 /* search box */
-.nav-btn-bar{
-  height: 3rem;
-}
+
 
 #tipue_search_input
 {
-     max-width: 150px;		 
-     max-height: 20px;		
-     padding: 15px;			
-     border-radius: 5;
-     box-shadow: none;
-     outline: 0;
-     margin: 0;
-     text-align: left;		
+     color: #333;
+     max-width: 210px;
+	padding: 17px;
+	border: 1px solid #e3e3e3;
+	border-radius: 0;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+     box-shadow: none; 
+	outline: 0;
+	margin: 0;
 }
-
-/* 돋보기 아이콘 위치 수정*/
 .tipue_search_icon
 {
-     width: 19px;
-     height: 19px;
-     margin-bottom: 1rem;
+     width: 24px;
+     height: 24px;
 }
-
-/* 검색창 위치 조정*/
 .tipue_search_left
 {
      float: left;
-     padding: 10px 5px 0 0;
-     color: #170247;
-     max-height: 20px;
+     padding: 15px 9px 0 0;
 }
-
 .tipue_search_right
 {
      float: left;
