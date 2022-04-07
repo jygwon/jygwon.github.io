@@ -4,13 +4,15 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.9)
+    concurrent-ruby (1.1.10)
     duktape (2.6.0.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.8.1)
+    ffi (1.15.5)
     ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -66,7 +68,7 @@ GEM
       listen (~> 3.0)
     katex (0.8.0)
       execjs (~> 2.7)
-    kramdown (2.3.1)
+    kramdown (2.3.2)
       rexml
     kramdown-math-katex (1.0.1)
       katex (~> 0.4)
@@ -88,19 +90,17 @@ GEM
     rexml (3.2.5)
     rouge (3.28.0)
     safe_yaml (1.0.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tzinfo (2.0.4)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2021.5)
-      tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
+  universal-darwin-21
   x64-mingw32
 
 DEPENDENCIES
@@ -121,9 +121,7 @@ DEPENDENCIES
   jekyll-theme-hydejack (~> 9.1)
   jekyll-titles-from-headings
   kramdown-math-katex
-  tzinfo-data
-  wdm
   webrick
 
 BUNDLED WITH
-   2.3.8
+   2.3.11
