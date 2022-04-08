@@ -11,18 +11,8 @@ sections:
   label: Posts
   create: all
 - type: directory
-  path: _projects
-  label: Projects
-  create: all
-  match: "**/*"
-- type: directory
-  path: _featured_tags
-  label: Featured tags
-  create: all
-  match: "**/*"
-- type: directory
   path: _featured_categories
-  label: Featured categories
+  label: 메뉴관리 - 변경시 _config.yml도 수정필요
   create: all
   match: "**/*"
 upload_dir: uploads
