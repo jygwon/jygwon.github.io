@@ -1,0 +1,25 @@
+---
+label: basic-post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: sitemap
+  label: sitemap
+- type: boolean
+  name: hide_last_modified
+  label: hide_last_modified
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: tags
+  label: tags
