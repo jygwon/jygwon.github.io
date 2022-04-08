@@ -19,3 +19,11 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
+
+# 관리
+
+## 카테고리
+
+* [깃헙블로그]{:.heading.flip-title}
+
+[깃헙블로그]: /blog/

@@ -2,9 +2,12 @@
 layout: post
 title: 마크다운 게시물에 유튜브 영상 넣기
 description: >
+  한줄요약: 유튜브 영상 id를 얻어오는게 핵심
 sitemap: false
 hide_last_modified: false
 categories:
+  - maint
+  - blog
   - dev
 ---
 

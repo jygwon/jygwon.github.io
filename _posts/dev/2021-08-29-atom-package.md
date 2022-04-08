@@ -2,6 +2,7 @@
 layout: post
 title: Atom 필수패키지
 description: >
+  한줄요약: 일단 깔자.
 sitemap: false
 hide_last_modified: false
 categories:

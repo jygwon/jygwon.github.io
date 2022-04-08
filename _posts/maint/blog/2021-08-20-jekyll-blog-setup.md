@@ -2,13 +2,14 @@
 layout: post
 title: Jekyll과 테마를 이용한 github blog 셋업
 description: >
+  한줄요약: 내용이 많아서 축약해 놓았다.
 sitemap: false
 hide_last_modified: false
 categories:
-  - dev
+  - maint
+  - blog
 ---
 
-Jekyll과 테마를 이용한 github blog 셋업
 
 복잡한 내용이 있으나 간단한 셋업 방법을 적겠다.
 
@@ -35,8 +36,3 @@ Jekyll과 테마를 이용한 github blog 셋업
   - 로컬에서 잘 돌아가는 걸 확인했으면 gitblog로 호스팅 해 보자.
   - gitblog 계정만들고 호스팅하기
   - 소스 푸쉬
-
-
-작동원리
-
-포스팅하기

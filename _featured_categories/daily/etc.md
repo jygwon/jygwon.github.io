@@ -4,10 +4,10 @@ category: 일상
 bigtitle: 기타
 slug: etc
 description: >
-  일상의 잡다한 것들
+  잡다한 것들과 생각 모음
 
 related_posts:
-    - 
+    -
 list: true
 order: 1
 ---

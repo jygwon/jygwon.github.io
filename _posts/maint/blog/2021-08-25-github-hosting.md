@@ -2,10 +2,12 @@
 layout: post
 title: github 계정생성 및 블로그 호스팅
 description: >
+  한줄요약: PAT(personal access token)을 생성하자 - github이 더이상 패스워드를 지원하지 않는다.
 sitemap: false
 hide_last_modified: false
 categories:
   - maint
+  - blog
 tags: github blog pat token
 ---
 
