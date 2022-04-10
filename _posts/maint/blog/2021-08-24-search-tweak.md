@@ -2,7 +2,6 @@
 layout: post
 title: 깃블로그 search이 정상적으로 동작하지 않을 때
 description: >
-  한줄요약: wholeWords를 매칭하지 않도록 하는게 핵심
 sitemap: false
 hide_last_modified: false
 categories:
@@ -11,6 +10,8 @@ categories:
 tags: search 검색
 ---
 
+  한줄요약: wholeWords를 매칭하지 않도록 하는게 핵심
+  
 깃블로그 search 검색값이 올바로 나오지 않는 경우는 아래의 파일에서
 코드블럭과 같이 적혀 있는지 확인한다.
 

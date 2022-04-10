@@ -2,7 +2,6 @@
 layout: post
 title: Jekyll과 테마를 이용한 github blog 셋업
 description: >
-  한줄요약: 내용이 많아서 축약해 놓았다.
 sitemap: false
 hide_last_modified: false
 categories:
@@ -10,6 +9,7 @@ categories:
   - blog
 ---
 
+  한줄요약: 내용이 많아서 축약해 놓았다.
 
 복잡한 내용이 있으나 간단한 셋업 방법을 적겠다.
 

@@ -2,7 +2,6 @@
 layout: post
 title: 마크다운 게시물에 유튜브 영상 넣기
 description: >
-  한줄요약: 유튜브 영상 id를 얻어오는게 핵심
 sitemap: false
 hide_last_modified: false
 categories:
@@ -11,6 +10,8 @@ categories:
   - dev
 ---
 
+  한줄요약: 유튜브 영상 id를 얻어오는게 핵심
+  
 아래 경로의 파일에 코드블럭을 넣어준다.  
 _includes > components > youtubePlayer.html
 ~~~

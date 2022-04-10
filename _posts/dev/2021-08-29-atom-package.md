@@ -2,13 +2,14 @@
 layout: post
 title: Atom 필수패키지
 description: >
-  한줄요약: 일단 깔자.
 sitemap: false
 hide_last_modified: false
 categories:
   - dev
 ---
 
+  한줄요약: 일단 깔자.
+  
 Atom 필수 패키지를 알아보자.
 
 ## atom-beautify

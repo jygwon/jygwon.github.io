@@ -2,13 +2,13 @@
 layout: post
 title: Ruby on Rails란?
 description: >
-  한줄요약: Ruby on Rails는 Ruby로 개발된 오픈소스 웹 프레임워크이다.
 sitemap: false
 hide_last_modified: false
 categories:
   - dev
 ---
 
+  한줄요약: Ruby on Rails는 Ruby로 개발된 오픈소스 웹 프레임워크이다.
 
 줄여서 Rails라고 부릅니다.
 

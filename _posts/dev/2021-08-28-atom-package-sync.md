@@ -2,13 +2,14 @@
 layout: post
 title: Atom 패키지 동기화
 description: >
-  한줄요약: 닥치고 lee-dohm/package-sync 설치하자.
 sitemap: false
 hide_last_modified: false
 categories:
   - dev
 ---
 
+  한줄요약: 닥치고 lee-dohm/package-sync 설치하자.
+  
 Atom 패키지 동기화를 알아보자.
 
 Atom 에디터에 편리한 패키지들을 찾아 설치하다보면 어느덧 꽤 많은 패키지들이 설치된 상태로 사용하게 됩니다.

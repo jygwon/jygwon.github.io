@@ -2,7 +2,6 @@
 layout: post
 title: Jekyll기반 github blog 작동원리
 description: >
-  한줄요약: 어떻게 돌아가는지 알아야 운영이 된다.
 sitemap: false
 hide_last_modified: false
 categories:
@@ -10,6 +9,8 @@ categories:
   - blog
 ---
 
+  한줄요약: 어떻게 돌아가는지 알아야 운영이 된다.
+  
 # Jekyll과 테마를 이용한 github blog 작동원리
 
 ## Jekyll이란?
