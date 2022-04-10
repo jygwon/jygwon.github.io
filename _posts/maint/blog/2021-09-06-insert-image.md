@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 깃블로그 마크다운 포스팅 글에 이미지 삽입하기
+title: 깃블로그 마크다운 포스트에 이미지 삽입하기
 description: 
 sitemap: false
 hide_last_modified: false
