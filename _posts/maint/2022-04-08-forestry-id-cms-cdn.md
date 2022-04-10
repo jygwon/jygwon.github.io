@@ -15,8 +15,8 @@ tags:
 - 사진첨부
 
 ---
-> 한줄요약: 복잡한거 싫어하면 이게 정답
->
+한줄요약: 복잡한거 싫어하면 이게 정답
+
 > # Headless CMS that **commits**
 
 **Give your editors the power of Git.  
