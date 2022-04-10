@@ -23,3 +23,5 @@ fields:
 - type: text
   name: tags
   label: tags
+pages:
+- _posts/algo/1309.md
