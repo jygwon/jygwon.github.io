@@ -17,7 +17,7 @@ tags:
 ---
 한줄요약: 복잡한거 싫어하면 이게 정답
 
-> # Headless CMS that **commits**
+# Headless CMS that **commits**
 
 **Give your editors the power of Git.  
 Create, edit, and instant preview Markdown-based sites.**
