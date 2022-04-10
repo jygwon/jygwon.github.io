@@ -15,7 +15,7 @@ tags:
 - 사진첨부
 
 ---
-# Headless CMS that **commits**
+> # Headless CMS that **commits**
 
 **Give your editors the power of Git.  
 Create, edit, and instant preview Markdown-based sites.**
@@ -34,13 +34,13 @@ Jekyll을 사용한 깃블로그를 예로들어 설명하겠다.
 4. 커밋 후 깃헙에 푸쉬한다.
 5. 깃블로그 주소에 접속해서 확인한다.
 
-복잡한 과정인데, 이걸 웹에서 한방에 해결해 주는게 forestry.io라고 할 수 있다. 
+복잡한 과정인데, 이걸 웹에서 한방에 해결해 주는게 forestry.io라고 할 수 있다.
 
 작동원리
 
 * forestry.io에 내 블로그의 깃헙 리포지토리를 연결해 준다.
 * forestry.io가 깃헙 레포를 분석해서 포스트, 페이지 및 구성요소 별로 나열해 준다.
 * forestry.io의 메뉴에서 위 구성요소를 수정가능하고 markdown은 바로보기 가능하다.
-* 수정된 파일은 내 깃헙 레포지토리로 바로 업데이트된다 
+* 수정된 파일은 내 깃헙 레포지토리로 바로 업데이트된다
 
 그러니까 forestry.io를 쓰면 그냥 웹에디터처럼 바로바로 웹상에서 수정이 가능하고 게다가 cdn기능까지 겸하고 있어 사진이나 동영상을 저장해주고 **포스트 작성시 바로 링크**해주는 기능도 해 준다. (더 이상 깃헙의 issue기능을 안써도 된다.)
