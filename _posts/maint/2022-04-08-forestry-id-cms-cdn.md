@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll 기반 웹컨텐츠 관리를 웹에서 한방에 Forestry.io - 사진첨부는 덤
-description: '한줄요약: 복잡한거 싫어하면 이게 정답'
+description: ''
 sitemap: false
 hide_last_modified: false
 categories:
@@ -15,6 +15,8 @@ tags:
 - 사진첨부
 
 ---
+> 한줄요약: 복잡한거 싫어하면 이게 정답
+>
 > # Headless CMS that **commits**
 
 **Give your editors the power of Git.  
