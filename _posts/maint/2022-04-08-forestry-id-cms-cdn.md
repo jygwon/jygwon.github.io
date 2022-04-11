@@ -15,9 +15,9 @@ tags:
 - 사진첨부
 
 ---
-> 한줄요약: 복잡한거 싫어하면 이게 정답
->
-> # Headless CMS that **commits**
+한줄요약: 복잡한거 싫어하면 이게 정답
+
+# Headless CMS that **commits**
 
 **Give your editors the power of Git.  
 Create, edit, and instant preview Markdown-based sites.**
@@ -28,7 +28,7 @@ forestry.io에 들어가보면 위와 같이 적혀있다.
 
 Jekyll을 사용한 깃블로그를 예로들어 설명하겠다.
 
-위 환경에서의 포스트관리는 다음을 거친다.
+Jekyll 환경에서의 포스트관리는 다음을 거친다.
 
 1. 로컬환경에서 블로그용 폴더에 접근한다.
 2. 폴더에서 atom등을 이용해 포스트용 마크다운 파일을 생성한다.(블로그 포스트 작성)
