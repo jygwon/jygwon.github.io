@@ -24,9 +24,9 @@ fields:
   name: tags
   label: tags
 pages:
-- _posts/algo/14501.md
 - _posts/algo/2022-04-10-1309.md
 - _posts/algo/2022-04-11-11057.md
+- _posts/algo/2022-04-19-14501.md
 - _posts/algo/2156.md
 - _posts/algo/2293-1.md
 - _posts/daily/etc/2022-04-17-생각의-중요성-알고리즘-풀-때의-마음가짐.md
