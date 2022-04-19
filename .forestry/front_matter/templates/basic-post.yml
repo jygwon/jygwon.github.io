@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/algo/14501.md
 - _posts/algo/2022-04-10-1309.md
 - _posts/algo/2022-04-11-11057.md
 - _posts/algo/2156.md
