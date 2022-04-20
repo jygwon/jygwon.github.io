@@ -13,13 +13,14 @@ tags: ''
 아래와 같이 적어준다.
 
 하나의 값만 적어주면 다른쪽은 원본에 비례해서 변경된다.
+**띄어쓰기 주의!**
 
-    ![image](/uploads/download.jpg = 250x250)
+    ![image](/uploads/download.jpg =100x200)
     
-    ![image](/uploads/download.jpg = 250x)
+    ![image](/uploads/download.jpg =500x)
 
 ㅁㅁ
 
 ![](/uploads/download.jpg)
-![](/uploads/download.jpg =100x20){:height="700px" width="400px"}
-![](/uploads/download.jpg =500x){:height="70px"}
+![](/uploads/download.jpg =100x200)
+![](/uploads/download.jpg =500x)
