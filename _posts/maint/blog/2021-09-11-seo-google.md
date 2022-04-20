@@ -26,7 +26,7 @@ jekyll으로 제작된 깃허브 블로그에 SEO 작업을 진행한다.
 그럼 이제 Sitemap.xml을 생성해본다.
 
 아래 내용으로 sitemap.xml 파일을 만들고 root 경로에 넣어준다.
-
+~~~
     ---
     layout: null
     ---
@@ -56,7 +56,7 @@ jekyll으로 제작된 깃허브 블로그에 SEO 작업을 진행한다.
         </url>
       {% endfor %}
     </urlset>
-    
+~~~    
 
 * 해당 파일을 커밋, 푸쉬 한다.
 * 블로그 주소/sitemap.xml 에 들어가서 제대로 사이트맵이 등록되었는지 확인해 본다.
@@ -71,7 +71,7 @@ jekyll으로 제작된 깃허브 블로그에 SEO 작업을 진행한다.
 그럼 이제 RSS feed.xml을 생성한다.
 
 sitemap.xml과 동일하게 root 경로에 만들어주고 아래 코드를 넣어준다.
-
+~~~
     ---
     layout: null
     ---
@@ -102,7 +102,7 @@ sitemap.xml과 동일하게 root 경로에 만들어주고 아래 코드를 넣�
         {% endfor %}
       </channel>
     </rss>
-    
+~~~    
 
 해당 파일을 커밋, 푸쉬 하고 블로그 주소/feed.xml 에 제대로 등록되었는지 확인해 본다.
 
@@ -117,12 +117,12 @@ robots.txt 또는 robots.xml은 로봇 배제 표준을 따르는 일반 텍스�
 robots.xml을 생성한다.
 
 아래와 같이 입력한다.
-
+~~~
     User-agent: *
     Allow: /
     
     Sitemap: <http://username.github.io/sitemap.xml>
-    
+~~~    
 
 User-agent는 허용할 검색엔진 명을 넣게 된다.
 
