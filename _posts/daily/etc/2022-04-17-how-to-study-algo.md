@@ -8,7 +8,6 @@ categories:
 - etc
 - algo
 - daily
-tags: ''
 
 ---
 모든 장기전은 루틴화가 중요하다.

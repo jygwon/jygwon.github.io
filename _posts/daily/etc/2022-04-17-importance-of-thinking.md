@@ -7,7 +7,6 @@ hide_last_modified: false
 categories:
 - daily
 - etc
-tags: ''
 
 ---
 내가 생각하고 있는 것이 곧 자신이다.

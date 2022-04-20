@@ -1,0 +1,26 @@
+---
+layout: post
+title: 블로그 글에서 블로그 내의 다른 글 링크하기
+description: ''
+sitemap: false
+hide_last_modified: false
+categories:
+- blog
+- maint
+tags: 링크
+
+---
+아래와 같이 적으면 블로그 내의 다른 글 링크할 수 있다.
+~~~
+\[링크에 보이는 글\]({% post_url blog_post_name%})
+~~~
+.md확장자를 빼준다.
+
+블로그내 글 이름은 상단의 url을 보면 알 수 있다.
+보통 **년-월-일-시퀀스번호** 혹은 **년-월-일-글제목** 으로 되어있다.
+
+예)
+~~~
+\[forestry.io\]({% post_url 2021-08-20-what-ruby%})
+~~~
+[forestry.io]({% post_url 2021-08-20-what-ruby%})
