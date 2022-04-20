@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 구글에 내 블로그 등록하기 (블로그 구글에 노출시키기. Google Search Console 이용)
+title: 구글에 블로그 노출시키기. (Google Search Console 이용)
 description: ''
 sitemap: false
 hide_last_modified: false
