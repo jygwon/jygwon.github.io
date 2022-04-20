@@ -10,4 +10,16 @@ categories:
 tags: ''
 
 ---
-aaa
+아래와 같이 적어준다.
+
+하나의 값만 적어주면 다른쪽은 원본에 비례해서 변경된다.
+
+    ![image](/uploads/download.jpg = 250x250)
+    
+    ![image](/uploads/download.jpg = 250x)
+
+ㅁㅁ
+
+![](/uploads/download.jpg)
+![](/uploads/download.jpg = 250x250)
+![](/uploads/download.jpg = 250x)
