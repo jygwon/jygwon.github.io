@@ -44,7 +44,7 @@ _includes/body/sidebar-sticky.html에 복사한 것을 붙여 넣어주면 된�
 
 게시물에는 정적 페이지가 빌드 될 때마다 자동으로 hits에서 만든 배지를 삽입하도록 해준다. Jekyll 기준 게시글의 레이아웃을 지정하는 파일은 _include/post.html 이다.
 
-아까 사용했던 코드 form을 사용한다.
+아까 사용했던 코드 form을 넣어준다.
 
 ```html
 <div style="text-align:right; text-align: center">
