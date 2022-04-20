@@ -21,5 +21,5 @@ tags: ''
 ㅁㅁ
 
 ![](/uploads/download.jpg)
-![](/uploads/download.jpg = 250x250)
-![](/uploads/download.jpg = 250x)
+![](/uploads/download.jpg){:height="700px" width="400px"}
+![](/uploads/download.jpg){:height="70px"}
