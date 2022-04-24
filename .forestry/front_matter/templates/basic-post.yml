@@ -25,11 +25,11 @@ fields:
   label: tags
 pages:
 - _posts/algo/2021-09-15-coin.md
+- _posts/algo/2021-10-19-how-to-algo-study.md
 - _posts/algo/2022-04-10-1309.md
 - _posts/algo/2022-04-11-11057.md
 - _posts/algo/2022-04-19-14501.md
 - _posts/algo/2156.md
-- _posts/algo/코딩테스트를-위한-알고리즘-공부-순서.md
 - _posts/dev/2022-04-11-node.js.md
 - _posts/maint/blog/2021-09-15-image-change-size.md
 - _posts/maint/blog/2021-09-30-kakao-adfit-blog.md
