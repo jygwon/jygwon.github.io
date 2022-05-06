@@ -1,6 +1,6 @@
 ---
-layout: Java Script Arrow Function 문법
-title: ''
+layout: post
+title: Java Script Arrow Function 문법
 description: ''
 sitemap: false
 hide_last_modified: false
