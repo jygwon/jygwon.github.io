@@ -18,7 +18,7 @@ Java Script Data Binding
 
 ## 근데, 이런거 왜 쓰는데?
 
-```javascript, attr.source='.numberLines'}
+```{javascript, attr.source='.numberLines'}
     var car = '소나타';
     var carPrice = 50000;
     var carColor = 'white';
