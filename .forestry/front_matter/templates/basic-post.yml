@@ -29,6 +29,7 @@ pages:
 - _posts/2021-10-15-markdown-code-block.md
 - _posts/2021-10-25-event-param-e-this.md
 - _posts/2021-11-01-event-bubbling.md
+- _posts/2022-05-07-마크다운-문서에서-같은-문서-내-링크-만들기.md
 - _posts/algo/2021-09-15-coin.md
 - _posts/algo/2021-10-19-how-to-algo-study.md
 - _posts/algo/2022-04-10-1309.md
@@ -43,4 +44,3 @@ pages:
 - _posts/maint/blog/2021-09-30-kakao-adfit-blog.md
 - _posts/maint/blog/2021-10-01-google-search-console.md
 - _posts/깃블로그-목차-만들기.md
-- _posts/마크다운-문서에서-같은-문서-내-링크-만들기.md
