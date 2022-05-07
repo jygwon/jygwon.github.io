@@ -15,9 +15,11 @@ tags: ''
 
 ## 근데, 이런거 왜 쓰는데?
 
+'''{javascript, attr.source='.numberLines'}
     var car = '소나타';
     var carPrice = 50000;
     var carColor = 'white';
+'''
 
 갑자기 여러 데이터들을 변수에 저장할 일이 생겼습니다.
 
