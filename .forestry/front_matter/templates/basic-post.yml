@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/2021-10-04-backslash-backtick.md
 - _posts/2021-10-25-event-param-e-this.md
 - _posts/2021-11-01-event-bubbling.md
 - _posts/2021-11-12-Arrow-Function.md
@@ -33,7 +34,6 @@ pages:
 - _posts/algo/2022-04-11-11057.md
 - _posts/algo/2022-04-19-14501.md
 - _posts/algo/2156.md
-- _posts/backslash-backtick.md
 - _posts/daily/etc/2021-10-29-study-thought.md
 - _posts/dev/2011-10-21-jupyter-notebook.md
 - _posts/dev/2022-04-11-node.js.md
