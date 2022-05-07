@@ -39,10 +39,9 @@ tags: ''
 Line numbers for code blocks (*)
 
 
-
-```{r, attr.source='.numberLines'}
-if (TRUE) {
-  x <- 1:10
-  x + 1
-}
-```
+    ```{r, attr.source='.numberLines'}
+    if (TRUE) {
+      x <- 1:10
+      x + 1
+    }
+    ```
