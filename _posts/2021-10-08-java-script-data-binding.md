@@ -9,12 +9,9 @@ tags: ''
 
 ---
 * toc
-{:toc .large-only}
-
+  {:toc .large-only}
 
 한줄요약: 데이터 다루려면 필수로 알아야 한다.
-  
-  
 
 ## 근데, 이런거 왜 쓰는데?
 
@@ -231,9 +228,13 @@ console.log(products) 해보면 **\[{ }, { }, { }\]** 이렇게 나옵니다.
 
 쭉 돌리면서 원하는 걸 뽑던지.
 
-그래서 돌릴 줄 알아야 합니다.![](/uploads/download-1.jpg)(돌리고\~ 돌리고)
+그래서 돌릴 줄 알아야 합니다.
 
-###  **array에는 forEach 반복문**
+![](/uploads/download-1.jpg)
+
+(돌리고\~ 돌리고)
+
+### **array에는 forEach 반복문**
 
 array 자료 뒤에 붙일 수 있는 forEach() 라는 기본함수가 있습니다.
 
@@ -267,10 +268,10 @@ forEach 콜백함수 안에 있는 코드가 실행됩니다.
 * 첫 파라미터는 **반복문 돌 때 마다 array 안에 있던 하나하나의 데이터**가 되고
 * 둘 째 파라미터는 **반복문 돌 때 마다 0부터 1씩 증가하는 정수**가 됩니다.
 
-    <script>
-      var pants = [28, 30, 32];
-      $('.form-select').eq(0).on('input', function(){
-    
+  <script>
+  var pants = \[28, 30, 32\];
+  $('.form-select').eq(0).on('input', function(){
+
         var value = $('.form-select').eq(0).val();
         if (value == '셔츠') {
           $('.form-select').eq(1).removeClass('form-hide');
@@ -282,9 +283,10 @@ forEach 콜백함수 안에 있는 코드가 실행됩니다.
             $('.form-select').eq(1).append(`<option>${a}</option>`)
           })
         }
-    
+      
       });
-    </script>
+
+  </script>
 
 ▲ 그래서 아까 코드도 이렇게 바꿔봤습니다.
 
