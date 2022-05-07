@@ -28,6 +28,7 @@ pages:
 - _posts/2021-10-25-event-param-e-this.md
 - _posts/2021-11-01-event-bubbling.md
 - _posts/2021-11-12-Arrow-Function.md
+- _posts/2022-05-07-java-script-data-binding.md
 - _posts/algo/2021-09-15-coin.md
 - _posts/algo/2021-10-19-how-to-algo-study.md
 - _posts/algo/2022-04-10-1309.md
@@ -38,7 +39,6 @@ pages:
 - _posts/dev/2011-10-21-jupyter-notebook.md
 - _posts/dev/2022-04-11-node.js.md
 - _posts/dev/colab-google-colab.md
-- _posts/java-script-data-binding.md
 - _posts/maint/blog/2021-09-15-image-change-size.md
 - _posts/maint/blog/2021-09-30-kakao-adfit-blog.md
 - _posts/maint/blog/2021-10-01-google-search-console.md
