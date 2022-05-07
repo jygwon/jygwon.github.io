@@ -26,6 +26,7 @@ fields:
 pages:
 - _posts/2021-10-04-backslash-backtick.md
 - _posts/2021-10-08-java-script-data-binding.md
+- _posts/2021-10-15-markdown-code-block.md
 - _posts/2021-10-25-event-param-e-this.md
 - _posts/2021-11-01-event-bubbling.md
 - _posts/algo/2021-09-15-coin.md
@@ -41,4 +42,3 @@ pages:
 - _posts/maint/blog/2021-09-15-image-change-size.md
 - _posts/maint/blog/2021-09-30-kakao-adfit-blog.md
 - _posts/maint/blog/2021-10-01-google-search-console.md
-- _posts/markdown-code-block.md
