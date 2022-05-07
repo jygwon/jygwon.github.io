@@ -21,16 +21,16 @@ tags: github blog pat token
 3. 지킬이 설치된 폴더로 이동해서
    git bash나 power shell내에서 아래와 같이 입력한다.
 
-git init
-git add --a
-git commit -m 'first'
-git remote add origin https://github.com/jodygwon/jodygwon.github.io.git
-git push -u origin master
+      git init
+      git add --a
+      git commit -m 'first'
+      git remote add origin https://github.com/jodygwon/jodygwon.github.io.git
+      git push -u origin master
 
 위와 같이 하면 pat를 입력하는 윈도우가 나오는데 거기에 전에 생성한 pat를 넣어준다.
 
 
 **혹시 pat윈도우가 나오지 않고 에러가 떨어지면 아래와 같이 적어준다.**
 
-git remote set-url origin https://jodygwon:your_actual_pat@github.com/jodygwon/jodygwon.github.io.git
-git push -u origin master
+      git remote set-url origin https://jodygwon:your_actual_pat@github.com/jodygwon/jodygwon.github.io.git
+      git push -u origin master
