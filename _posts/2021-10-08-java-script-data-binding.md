@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Script Data Binding 자바 스크립트 배열 자료형과 데이터 바인딩 feat arrow function(애로우 펑선)
+title: 자바 스크립트 배열 자료형과 데이터 바인딩 feat. arrow function(애로우 펑선)
 description: ''
 sitemap: false
 hide_last_modified: false
@@ -13,7 +13,7 @@ tags: ''
   
   
   
-
+Java Script Data Binding 
 한줄요약: 데이터 다루려면 필수로 알아야 한다.
 
 ## 근데, 이런거 왜 쓰는데?
