@@ -25,9 +25,9 @@ fields:
   label: tags
 pages:
 - _posts/2021-10-04-backslash-backtick.md
+- _posts/2021-10-08-java-script-data-binding.md
 - _posts/2021-10-25-event-param-e-this.md
 - _posts/2021-11-01-event-bubbling.md
-- _posts/2022-05-07-java-script-data-binding.md
 - _posts/algo/2021-09-15-coin.md
 - _posts/algo/2021-10-19-how-to-algo-study.md
 - _posts/algo/2022-04-10-1309.md
