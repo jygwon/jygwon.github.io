@@ -1,6 +1,13 @@
 ---
 layout: base
 ---
+
+
+    <div class="toc">
+      <a href="#">&lt;맨 위로&gt;</a>
+  {% include toc.html html=content %}
+    </div>
+
 {% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %}
 {% include analytics.html %}
 
