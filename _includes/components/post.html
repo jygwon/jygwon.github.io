@@ -53,13 +53,15 @@
     {% include components/message.html text=post.description hide=hide_description alt=alt %}
    
   </header>
-  <div class="markdown-body">
-    
-    
+  
+  
     <div class="toc">
       <a href="#">&lt;맨 위로&gt;</a>
   {% include toc.html html=post.content %}
     </div>
+  <div class="markdown-body">
+    
+    
   {% if no_excerpt %}
     {{ post.content }}
   {% else %}
