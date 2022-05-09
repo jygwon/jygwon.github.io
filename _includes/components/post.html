@@ -5,7 +5,7 @@
 {% assign hide_description = include.hide_description %}
 
 
-<article id="post{{ post.id | replace:'/','-' }}" class="page post mb6" role="article" >
+<article id="post{{ post.id | replace:'/','-' }}" class="page post mb6 post-article" role="article" >
   <header>
     <!--제목-->
     <h1 class="post-title flip-project-title">
@@ -56,8 +56,10 @@
   <div class="markdown-body">
     
     
-    
+    <div class="toc">
+      <a href="#">&lt;맨 위로&gt;</a>
   {% include toc.html html=post.content %}
+    </div>
   {% if no_excerpt %}
     {{ post.content }}
   {% else %}
