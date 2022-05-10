@@ -8,9 +8,6 @@ categories: []
 tags: ''
 
 ---
-* toc
-{:toc .large-only}
-  
   
   
 Java Script Data Binding 
