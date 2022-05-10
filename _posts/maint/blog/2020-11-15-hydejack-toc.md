@@ -4,7 +4,9 @@ title: 깃블로그 hydejack 테마 자동목차 만들기
 description: ''
 sitemap: false
 hide_last_modified: false
-categories: []
+categories:
+- blog
+- maint
 tags: ''
 
 ---
