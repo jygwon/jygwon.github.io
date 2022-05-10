@@ -16,6 +16,6 @@ tags: ''
 
     {:toc .large-only}
 
-hydejack 테마는 아래 웹사이트에서 받을 수 있다.
+hydejack 테마는 아래 웹사이트에서 받을 수 있다
 
 [https://hydejack.com/](https://hydejack.com/ "https://hydejack.com/")
