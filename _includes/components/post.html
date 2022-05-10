@@ -85,8 +85,12 @@
 
 
 
-
-
 <script>
-$(document).ready(function(){ var currentPosition = parseInt($(".toc").css("top")); $(window).scroll(function() { var position = $(window).scrollTop(); $(".toc").stop().animate({"top":position+currentPosition+"px"},300); }); });
+$(document).ready(function(){ 
+  var currentPosition = parseInt($(".toc").css("top")); 
+  $(window).scroll(function() { 
+    var position = $(window).scrollTop(); 
+    $(".toc").stop().animate({"top":position+currentPosition+"px"},100); 
+  }); 
+});
 </script>
