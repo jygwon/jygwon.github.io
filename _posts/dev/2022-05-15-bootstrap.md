@@ -65,13 +65,13 @@ tags: ''
 
 이 있는데, 이는 부트스트랩을 당겨서 몸을 끌어올린다는 조금은 이상한 표현이다.
 
-이 표현은 독일 소설 [_The Surprising Adventures of Baron Munchausen_](https://en.wikisource.org/wiki/The_Surprising_Adventures_of_Baron_Munchausen "wikisource: 뮌하우젠 남작의 놀라운 모험")(뮌하우젠 남작의 놀라운 모험, 국내에는 허풍선이 남작의 모험으로 출간)의 한장면의 오역이 일반화된 내용이다.
+이 표현은 독일 소설 [_The Surprising Adventures of Baron Munchausen_](https://en.wikisource.org/wiki/The_Surprising_Adventures_of_Baron_Munchausen "wikisource: 뮌하우젠 남작의 놀라운 모험")(뮌하우젠 남작의 놀라운 모험, 국내에는 허풍선이 남작의 모험으로 출간)의 오역이 일반화된 오류이다.
 
-허풍선이 남작은 말을 타고 가다 늪에 빠지게 되는데, 목줄 또는 길게 땋은 머리를 당겨서 스스로 빠져나올 수 있었다고 자랑하는데, 
+허풍선이 남작은 말을 타고 가다 늪에 빠지게 되었는데, 길게 땋은 머리를 당겨서 스스로 빠져나올 수 있었다고 자랑하는데, 
 
 ![](/uploads/2022-05-15-022049.jpg)
 
-여기서의 목줄 또는 길게 땋은 머리가 bootstrap으로 오역되면서 위와 같은 관용구가 생기게 되었다.
+여기서의 길게 땋은 머리가 bootstrap으로 오역되면서 위와 같은 관용구가 생기게 되었다.
 
 ### 일반적 의미의 변화
 
@@ -79,7 +79,7 @@ tags: ''
 
 하지만 시간이 지남에 따라 
 
-> **사용가능한 것을 최대한 활용하는 법을 모색하라**
+> **사용가능한 것을 최대한 활용하는 법을 모색함**
 
 는 뜻으로 의미가 변질되었다.
 
