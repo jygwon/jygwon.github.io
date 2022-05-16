@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 뷰모델 EJS(Embedded Java Script)란?
+title: EJS(Embedded Java Script)란? (뷰모델 엔진)
 description: ''
 sitemap: false
 hide_last_modified: false
