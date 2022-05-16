@@ -24,6 +24,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/2022-01-13-rest-api.md
 - _posts/algo/2021-09-15-coin.md
 - _posts/algo/2021-10-19-how-to-algo-study.md
 - _posts/algo/2022-04-10-1309.md
@@ -42,4 +43,3 @@ pages:
 - _posts/maint/blog/2021-10-01-google-search-console.md
 - _posts/maint/blog/2021-11-15-hydejack-toc.md
 - _posts/maint/pc/2022-01-03-powertoy.md
-- _posts/rest-api.md
