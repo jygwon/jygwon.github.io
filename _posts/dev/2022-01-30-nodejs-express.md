@@ -34,9 +34,9 @@ express란, NodeJS를 사용하여 서버를 개발하고자 하는 개발자들
 express의 설치에 앞서, 두 가지를 선행해야 한다.
 
 1. NodeJS의 설치, 그리고
-2. 두npm init을 통한 프로젝트 initialize가
+2. npm init을 통한 프로젝트 initialize
 
-그리고, npm install express 명령어로 express를 설치.
+이제, `npm install express` 명령어로 express를 설치한다.
 
 ### 사용
 
@@ -54,4 +54,6 @@ express의 설치에 앞서, 두 가지를 선행해야 한다.
       console.log(`Example app listening at http://localhost:${port}`)
     })
 
-포트 8080에 그 유명한 헬로월드 메시지 확인할 수 있다.![](https://velog.velcdn.com/images%2Fmadpotato1713%2Fpost%2F1cc08d2e-5309-4a82-815d-2abf6add5b4e%2Fimage.png)
+포트 8080에 그 유명한 헬로월드 메시지 확인할 수 있다.
+
+![](https://velog.velcdn.com/images%2Fmadpotato1713%2Fpost%2F1cc08d2e-5309-4a82-815d-2abf6add5b4e%2Fimage.png)
