@@ -9,11 +9,9 @@ categories:
 tags: ''
 
 ---
-### 개요
+express 사이트([https://expressjs.com](https://expressjs.com "https://expressjs.com"))에 가보면, express란
 
-express 사이트([https://expressjs.com](https://expressjs.com "https://expressjs.com"))에 가보면, express란 
-
-> **_'Node.js를 위한 빠르고 개방적인 간결한 웹 프레임워크'_** 
+> **_'Node.js를 위한 빠르고 개방적인 간결한 웹 프레임워크'_**
 
 라고 한다.
 
@@ -35,7 +33,7 @@ express란, NodeJS를 사용하여 서버를 개발하고자 하는 개발자들
 
 express의 설치에 앞서, 두 가지를 선행해야 한다.
 
-1. NodeJS의 설치, 그리고 
+1. NodeJS의 설치, 그리고
 2. 두npm init을 통한 프로젝트 initialize가
 
 그리고, npm install express 명령어로 express를 설치.
