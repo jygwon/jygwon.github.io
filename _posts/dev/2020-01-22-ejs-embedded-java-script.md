@@ -52,9 +52,8 @@ HTML에 if문(또는 for문)을 적용하거나 반복문을 적용하고 싶을
     // <%= 변수명 %>
     <%=i+1 %>
     <a href='/board/<%= board[i]._id%>'>
-    
 
-### Include 사용 예
+### include 사용 예
 
 `<%-include('경로입력')%>`  
 경로 = `header` or `footer` 등  
@@ -72,8 +71,7 @@ HTML에 if문(또는 for문)을 적용하거나 반복문을 적용하고 싶을
       <% include ./footer %>
     </footer>
 
-###   
-routing 사용 예
+### routing 사용 예
 
     // 예시
     // app.js
@@ -104,7 +102,7 @@ routing 사용 예
     
     // 모듈 내보내기
     module.exports = router;
-
+    
     <!-- test.ejs -->
     <!DOCTYPE html>
     <html>
