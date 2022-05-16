@@ -112,20 +112,21 @@ HTML에 if문(또는 for문)을 적용하거나 반복문을 적용하고 싶을
         <p>Welcome to <%= title %></p>
       </body>
     </html>
-        
-        
+
 EJS는 뷰모델이므로 EJS파일이 views폴더 하위에 저장되어야 합니다.
 `root/views/list.ejs`
 
 ### body-parser 라이브러리
+
 EJS에서 받아온 자료를 표현하기 위해서는 body-parser 라이브러리가 필요합니다.
 `npm install body-parser`
 로 설치합니다.
 
 server.js에 아래와 같이 적어줍니다.
-```
-const bodyParser = require('body-parser')
-app.use(bodyParser.urlencoded({ extended: true }))
-```
+
+    const bodyParser = require('body-parser')
+    app.use(bodyParser.urlencoded({ extended: true }))
 
 이제 EJS에서 서버에서 가져온 데이터를 뿌려줄 수 있습니다.
+
+`console.log(req.body);`
