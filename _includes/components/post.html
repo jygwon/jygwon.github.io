@@ -34,8 +34,8 @@
       <br>
       {% assign post_format = "%Y년 %m월 %d일" | default:"%Y %m %d" %}
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:post_format }}</time>
-      <a href="https://hits.seeyoufarm.com" target="_blank">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjygwon.github.io{{ page.url }}&count_bg=%2304595A&title_bg=%23198E92&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false" /> </a>
+      <a href="https://hits.sh/jygwon.github.io{{ post.url }}" target="_blank">
+        <img alt="Visited" src="https://hits.sh/jygwon.github.io{{ post.url | split:'/' | join:'/' }}.svg?style=flat&label=Visited&color=04595a&labelColor=198e92" /> </a>
       <br>
     </span>
     </div>
